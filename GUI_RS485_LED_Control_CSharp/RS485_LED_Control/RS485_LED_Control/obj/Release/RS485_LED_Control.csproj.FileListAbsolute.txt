@@ -1,0 +1,8 @@
+D:\Work\SourceCodes\AVR\ATtiny RS485 Quad Motor Control Board V1.0\ATtiny RS485 LED Control\Ver3.0-GUI\GUI_RS485_LED_Control\RS485_LED_Control\RS485_LED_Control\bin\Release\RS485_LED_Control.exe.config
+D:\Work\SourceCodes\AVR\ATtiny RS485 Quad Motor Control Board V1.0\ATtiny RS485 LED Control\Ver3.0-GUI\GUI_RS485_LED_Control\RS485_LED_Control\RS485_LED_Control\bin\Release\RS485_LED_Control.exe
+D:\Work\SourceCodes\AVR\ATtiny RS485 Quad Motor Control Board V1.0\ATtiny RS485 LED Control\Ver3.0-GUI\GUI_RS485_LED_Control\RS485_LED_Control\RS485_LED_Control\bin\Release\RS485_LED_Control.pdb
+D:\Work\SourceCodes\AVR\ATtiny RS485 Quad Motor Control Board V1.0\ATtiny RS485 LED Control\Ver3.0-GUI\GUI_RS485_LED_Control\RS485_LED_Control\RS485_LED_Control\obj\Release\RS485_LED_Control.Properties.Resources.resources
+D:\Work\SourceCodes\AVR\ATtiny RS485 Quad Motor Control Board V1.0\ATtiny RS485 LED Control\Ver3.0-GUI\GUI_RS485_LED_Control\RS485_LED_Control\RS485_LED_Control\obj\Release\RS485_LED_Control.Form1.resources
+D:\Work\SourceCodes\AVR\ATtiny RS485 Quad Motor Control Board V1.0\ATtiny RS485 LED Control\Ver3.0-GUI\GUI_RS485_LED_Control\RS485_LED_Control\RS485_LED_Control\obj\Release\RS485_LED_Control.csproj.GenerateResource.Cache
+D:\Work\SourceCodes\AVR\ATtiny RS485 Quad Motor Control Board V1.0\ATtiny RS485 LED Control\Ver3.0-GUI\GUI_RS485_LED_Control\RS485_LED_Control\RS485_LED_Control\obj\Release\RS485_LED_Control.exe
+D:\Work\SourceCodes\AVR\ATtiny RS485 Quad Motor Control Board V1.0\ATtiny RS485 LED Control\Ver3.0-GUI\GUI_RS485_LED_Control\RS485_LED_Control\RS485_LED_Control\obj\Release\RS485_LED_Control.pdb

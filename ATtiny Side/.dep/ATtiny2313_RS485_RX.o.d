@@ -1,0 +1,3 @@
+ATtiny2313_RS485_RX.o: ATtiny2313_RS485_RX.c RS485.h
+
+RS485.h:

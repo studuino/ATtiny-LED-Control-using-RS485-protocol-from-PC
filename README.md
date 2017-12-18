@@ -10,6 +10,8 @@ A small control program written in **C#** is used to switch on and off the LED's
 - <a href = "http://xanthium.in/cross-platform-attiny-2313a-rs485-communication-with-pc-led-control-csharp-dot-net">Full Tutorial</a> 
 - <a href = "https://www.youtube.com/watch?v=2RLZuG9s7t8">Youtube Video</a>
 
+**C#** code is written using Visual Studio Community Edition.
+**Embedded C** code for ATtiny is compiled using AVR-GCC.
 
 <img src = "http://xanthium.in/sites/default/files/site-images/attiny-led-control-using-rs485-protocol/csharp-rs485-com-software.png"/>
 
